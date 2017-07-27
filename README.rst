@@ -14,3 +14,7 @@ original Sigil implementation, like:
 * Ability to supply custom digest algorithms (allowing for larger identicons if
   digest provides enough entropy).
 * Ability to specify a rectangle for identicon size..
+
+Documentation for the project can be found here:
+
+* http://pydenticon.readthedocs.io/en/0.3/index.html
